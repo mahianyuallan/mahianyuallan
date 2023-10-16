@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Allan Mwenja</h1>
 <h3 align="center">A passionate frontend and backend developer</h3>
 
-<p align="left"> <a href="https://twitter.com/mwenja_allan" target="blank"><img src="https://img.shields.io/twitter/follow/mwenja_allan?logo=twitter&style=for-the-badge" alt="mwenja_allan" /></a> </p>
-
 - 📫 How to reach me **mwenjaallan18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
