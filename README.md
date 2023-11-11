@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Allan Mwenja</h1>
 <h3 align="center">Software Engineer</h3>
 
-- Upskilling on C and C++ to work on Embedded Systems.
+- Upskilling on C and C++ to work on real-time applications.
 
 - 📫 How to reach me **mwenjaallan18@gmail.com**
 
